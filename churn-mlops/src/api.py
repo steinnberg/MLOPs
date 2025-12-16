@@ -35,3 +35,10 @@ def predict(req: PredictRequest):
     # y_pred could be array-like
     pred = int(y_pred[0])
     return {"churn_pred": pred}
+
+@app.get("/")
+def root():
+    return {
+        "message": "Churn MLOps API is running",
+        "docs": "/docs"
+    }

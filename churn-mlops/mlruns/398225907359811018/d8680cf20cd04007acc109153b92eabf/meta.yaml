@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/MLOPs/churn-mlops/mlruns/398225907359811018/d8680cf20cd04007acc109153b92eabf/artifacts
+end_time: 1765880872112
+entry_point_name: ''
+experiment_id: '398225907359811018'
+lifecycle_stage: active
+run_id: d8680cf20cd04007acc109153b92eabf
+run_name: amazing-fish-400
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765880872077
+status: 3
+tags: []
+user_id: Kered

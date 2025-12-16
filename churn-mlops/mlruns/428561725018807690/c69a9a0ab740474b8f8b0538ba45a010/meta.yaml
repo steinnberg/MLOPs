@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/MLOPs/churn-mlops/mlruns/428561725018807690/c69a9a0ab740474b8f8b0538ba45a010/artifacts
+end_time: 1765876410069
+entry_point_name: ''
+experiment_id: '428561725018807690'
+lifecycle_stage: active
+run_id: c69a9a0ab740474b8f8b0538ba45a010
+run_name: clumsy-doe-208
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765876403875
+status: 3
+tags: []
+user_id: Kered

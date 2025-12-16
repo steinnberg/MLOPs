@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/MLOPs/churn-mlops/mlruns/428561725018807690/a5b628dd848544b68b91263d68d990b0/artifacts
+end_time: 1765876374234
+entry_point_name: ''
+experiment_id: '428561725018807690'
+lifecycle_stage: active
+run_id: a5b628dd848544b68b91263d68d990b0
+run_name: rare-donkey-260
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765876367988
+status: 3
+tags: []
+user_id: Kered

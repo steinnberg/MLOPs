@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/MLOPs/churn-mlops/mlruns/428561725018807690/bf9dd1da7f0c41fcb0e788177c42dfec/artifacts
+end_time: 1765876231502
+entry_point_name: ''
+experiment_id: '428561725018807690'
+lifecycle_stage: active
+run_id: bf9dd1da7f0c41fcb0e788177c42dfec
+run_name: rumbling-vole-586
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765876225474
+status: 3
+tags: []
+user_id: Kered

@@ -1,0 +1,10 @@
+artifact_location: file:///D:/MLOPs/churn-mlops/mlruns/428561725018807690/models/m-6596657490374bde83828a73dc92c911/artifacts
+creation_timestamp: 1765876404141
+experiment_id: '428561725018807690'
+last_updated_timestamp: 1765876410056
+model_id: m-6596657490374bde83828a73dc92c911
+model_type: null
+name: model
+source_run_id: c69a9a0ab740474b8f8b0538ba45a010
+status: 2
+status_message: null
